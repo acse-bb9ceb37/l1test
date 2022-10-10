@@ -5,3 +5,7 @@ def add(x):
     return x
 
 print(add(1999))
+
+e = np.exp(1)
+
+print(e)
